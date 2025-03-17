@@ -23,6 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Unused files
-README.md
-vite.config.js
