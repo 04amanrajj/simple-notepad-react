@@ -47,7 +47,7 @@ function App() {
   return (
     <>
       <AlertMsg showAlert={showAlert} />
-      <div className="notepad bg-gray-100 flex h-screen flex-col">
+      <div className="notepad bg-gray-100 flex h-[90vh] flex-col">
         <h1 className="text-4xl p-4 font-bold" style={{backgroundColor: "#F8ED8C"}}>Notepad</h1>
         <hr className="w-full border-black" />
         <textarea
